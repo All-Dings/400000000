@@ -1,3 +1,3 @@
-# Imagess for Dings-Project
+# Media-Files for Dings-Project
 
-This Repository contains Images for the Dings-Project.
+This Repository contains Media-Files for the Dings-Project.
